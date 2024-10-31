@@ -33,6 +33,10 @@ code --install-extension tomoki1207.pdf
 code --install-extension redhat.vscode-yaml
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension HashiCorp.terraform
+code --install-extension ms-python.debugpy
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension redhat.ansible
 
 
 ###---DEB---###

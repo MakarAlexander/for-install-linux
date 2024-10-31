@@ -123,3 +123,9 @@ echo "}" >>.terraformrc
 - Markdown all in one (yzhang.markdown-all-in-one)
 > Поддержка формата Terraform
 - HashiCorp Terraform (HashiCorp.terraform)
+> Расширения для Python
+- Python (ms-python.python)
+- Pylance (ms-python.vscode-pylance)
+- Python Debugger (ms-python.debugpy)
+> Расширение для формата Ansible
+- Ansible (redhat.ansible)
